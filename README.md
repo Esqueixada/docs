@@ -1,20 +1,20 @@
 # Esqueixada
 
-##Qué és?
-Es un projecte obert amb la missió de difondre la importància i l'impacte de tecnologies i sistemes que promouen la decentralització.
+## Què és?
+És un projecte obert amb la missió de difondre la importància i l'impacte de tecnologies i sistemes que promouen la descentralització.
 
-Vol que tothom sigui capaç d'entendre cóm funcionen aquests sistemes que són intrinsicament complexos.
+Vol que tothom sigui capaç d'entendre com funcionen aquests sistemes que són intrínsecament complexos.
 
-En aquest primer episodi resumim aquest objectius
+En aquest primer episodi resumim aquests objectius
 
-[![Alt text for your video](https://img.youtube.com/vi/CT1kL_m9Rzc/0.jpg)](https://www.youtube.com/watch?v=CT1kL_m9Rzc)
+[![Primer episodi](https://img.youtube.com/vi/CT1kL_m9Rzc/0.jpg)](https://www.youtube.com/watch?v=CT1kL_m9Rzc)
 
-##Perquè?
-Vivim guiats per la informació que rebem. La majoria d'aquesta informació ha estat digitalitzada i transmesa a través d'internet en algun moment (Noticies, transfarencies monetaries, xats, entreteniment, feina...)
-
-En l'actualitat tota aquesta informació 
-
-##Cóm?
-L'enfoc actual és el de crear un podcast, en format de audio i video per explicar cóm funcionen aquests sistemes.
+## Com?
+L'enfocament actual és el de crear un podcast, en format d'àudio i vídeo per explicar com funcionen aquests sistemes.
 
 Entenem que aquests formats són molt més accessibles i facils de digerir i per tant faciliten la seva difusió.
+
+Estem oberts a qualsevol altra tipo de propostra
+
+## Col·labora!
+[Aquí](https://github.com/Esqueixada/docs/blob/master/Col%C2%B7labora.md) podràs trobar un document actualitzat amb el plantejament actual del projecte i de les feines que es poden fer.
