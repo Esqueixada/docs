@@ -6,6 +6,7 @@ Es un projecte obert amb la missió de difondre la importància i l'impacte de t
 Vol que tothom sigui capaç d'entendre cóm funcionen aquests sistemes que són intrinsicament complexos.
 
 En aquest primer episodi resumim aquest objectius
+
 [![Alt text for your video](https://img.youtube.com/vi/CT1kL_m9Rzc/0.jpg)](https://www.youtube.com/watch?v=CT1kL_m9Rzc)
 
 ##Perquè?
